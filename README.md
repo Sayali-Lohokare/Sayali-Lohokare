@@ -24,7 +24,7 @@ deep-learning medical image classifier and Tableau dashboards for business analy
 
 ### 📌 Featured projects
 
-- **[Chest X-Ray Disease Classification](link-to-repo)** — Deep learning multi-label classifier for
+- **[Chest X-Ray Disease Classification](https://github.com/Sayali-Lohokare/chest-xray-deep-learning-classifier)** — Deep learning multi-label classifier for
   14 thoracic conditions using DenseNet-121 and transfer learning on the NIH ChestX-ray14 dataset.
 - **[Sales & Business Performance Analysis](link-to-repo)** — Multi-dashboard Tableau project
   analysing sales, profit, and customer behaviour across regions and product categories.
