@@ -46,7 +46,7 @@ BEng Information Technology (CGPA 9.86) — Shrimati Kashibai Navale College of 
 
 ### 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/sayali-lohokare) · lohokaresayalisunil@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sayali-lohokare/) · lohokaresayalisunil@gmail.com
 <!--
 **Sayali-Lohokare/Sayali-Lohokare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
