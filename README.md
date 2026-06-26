@@ -26,17 +26,17 @@ deep-learning medical image classifier and Tableau dashboards for business analy
 
 - **[Chest X-Ray Disease Classification](https://github.com/Sayali-Lohokare/chest-xray-deep-learning-classifier)** — Deep learning multi-label classifier for
   14 thoracic conditions using DenseNet-121 and transfer learning on the NIH ChestX-ray14 dataset.
-- **[Sales & Business Performance Analysis](link-to-repo)** — Multi-dashboard Tableau project
+- **[Sales & Business Performance Analysis](https://github.com/Sayali-Lohokare/tableau-sales-performance-analysis)** — Multi-dashboard Tableau project
   analysing sales, profit, and customer behaviour across regions and product categories.
-- **[Ripple](link-to-repo)** — Full-stack Twitter-style social platform built with Java Spring Boot,
+- **[Ripple](https://github.com/Sayali-Lohokare/ripple-twitter-clone)** — Full-stack Twitter-style social platform built with Java Spring Boot,
   MongoDB Atlas, and Ionic React. Designed secure REST APIs with JWT authentication, implemented
   multiple design patterns across a layered architecture, and optimised MongoDB queries to noticeably
   reduce feed load times.
-- **[VREdu — Virtual Classroom](link-to-repo)** — A PC-based VR-style educational app built in Unity
+- **[VREdu — Virtual Classroom](https://github.com/Sayali-Lohokare/Capstone_VREdu)** — A PC-based VR-style educational app built in Unity
   that teaches searching and sorting algorithms through interactive 3D activities, featuring a
   rule-based AI tutor with adaptive difficulty and mistake detection, an integrated LLM-powered Q&A
   panel for on-demand explanations, and end-of-session learner performance summaries.
-- **[JavaFX Multi-Window Web Browser](link-to-repo)** — A desktop browser application built with
+- **[JavaFX Multi-Window Web Browser](https://github.com/Sayali-Lohokare/Java-Web-Browser)** — A desktop browser application built with
   JavaFX, supporting multiple concurrent windows.
 
 ### 🎓 Education
