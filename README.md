@@ -24,7 +24,7 @@ deep-learning medical image classifier and Tableau dashboards for business analy
 
 ### 📌 Featured projects
 
--**[VREdu — Virtual Classroom](https://github.com/Sayali-Lohokare/Capstone_VREdu)** — A PC-based VR-style educational app built in Unity
+- **[VREdu — Virtual Classroom](https://github.com/Sayali-Lohokare/Capstone_VREdu)** — A PC-based VR-style educational app built in Unity
   that teaches searching and sorting algorithms through interactive 3D activities, featuring a
   rule-based AI tutor with adaptive difficulty and mistake detection, an integrated LLM-powered Q&A
   panel for on-demand explanations, and end-of-session learner performance summaries.
