@@ -48,8 +48,8 @@ deep-learning medical image classifier and Tableau dashboards for business analy
 
 ### 🎓 Education
 
-MSc Computer Science (Software Engineering) — Maynooth University, Ireland
-BEng Information Technology (CGPA 9.86) — Shrimati Kashibai Navale College of Engineering, India
+-MSc Computer Science (Software Engineering) — Maynooth University, Ireland
+-BEng Information Technology (CGPA 9.86) — Shrimati Kashibai Navale College of Engineering, India
 
 ### 📫 Connect
 
