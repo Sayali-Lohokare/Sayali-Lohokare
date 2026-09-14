@@ -46,7 +46,7 @@ deep-learning medical image classifier and Tableau dashboards for business analy
 - **[JavaFX Multi-Window Web Browser](https://github.com/Sayali-Lohokare/Java-Web-Browser)** — A desktop browser application built with
   JavaFX, supporting multiple concurrent windows.
 
-### 🎓 Education
+ 🎓 Education
 
 -MSc Computer Science (Software Engineering) — Maynooth University, Ireland
 -BEng Information Technology (CGPA 9.86) — Shrimati Kashibai Navale College of Engineering, India
