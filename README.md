@@ -16,10 +16,11 @@ deep-learning medical image classifier and Tableau dashboards for business analy
 
 ### 🔧 What I work with
 
-**QA & Testing:** Regression testing, defect triage, JIRA, Selenium, JUnit, JMeter
 **Languages:** Java, Python, SQL, C#, C++
-**Backend & Data:** Spring Boot, MongoDB, REST APIs, Pandas, NumPy, CNNs, Transfer Learning
-**Data Visualization:** Power BI, Tableau
+**Machine Learning & AI:** CNNs, Transfer Learning, Deep Learning, scikit-learn, Pandas, NumPy, LLM API integration
+**Data Visualization:** Power BI, Tableau, Excel
+**Backend & APIs:** Spring Boot, MongoDB, REST APIs
+**QA & Testing:** Regression testing, defect triage, JIRA, Selenium, JUnit, JMeter
 **Tools:** Git, Docker, Agile/SCRUM, Unity
 
 ### 📌 Featured projects
