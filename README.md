@@ -28,6 +28,7 @@ deep-learning medical image classifier and Tableau dashboards for business analy
   that teaches searching and sorting algorithms through interactive 3D activities, featuring a
   rule-based AI tutor with adaptive difficulty and mistake detection, an integrated LLM-powered Q&A
   panel for on-demand explanations, and end-of-session learner performance summaries.
+- **[Dublin Bikes Rebalancing Analysis](https://github.com/Sayali-Lohokare/dublinbikes-analysis)** - Analysed 322,000+ station-level readings across 114 Dublin Bikes stations using Python (Pandas) and SQL, identifying supply imbalances including a station with 55% morning stockouts, merged weather data via REST API, and built an interactive Power BI dashboard delivering concrete rebalancing recommendations.
 - **[Sales & Business Performance Analysis](https://github.com/Sayali-Lohokare/tableau-sales-performance-analysis)** — Multi-dashboard Tableau project
   analysing sales, profit, and customer behaviour across regions and product categories.
 - **[Ripple](https://github.com/Sayali-Lohokare/ripple-twitter-clone)** — Full-stack Twitter-style social platform built with Java Spring Boot,
